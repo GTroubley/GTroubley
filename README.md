@@ -2,7 +2,8 @@
 - 👀 I’m interested in gamedev
 - 🌱 I’m currently learning C# & web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My discord: GTrouble#2437
+- 🕹️ Some of my games: https://gtrouble.itch.io/
 
 <!---
 GTroubley/GTroubley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
