@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GTroubley
+- 👋 Hi, I’m @GTrouble
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning C# & web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, Blender & Game Design.
+- 🤝 I’m looking to collaborate on: -
 - 📫 My discord: GTrouble#2437
 - 🕹️ Some of my games: https://gtrouble.itch.io/
 
