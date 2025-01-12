@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GTrouble
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning C#, Blender & Game Design.
+- 🌱 I’m currently learning C#, Javascript, Blender & Game Design.
 - 🤝 I’m looking to collaborate on: -
-- 📫 My discord: GTrouble#2437
+- 📫 My discord: GTrouble
 - 🕹️ Some of my games: https://gtrouble.itch.io/
 
 <!---
